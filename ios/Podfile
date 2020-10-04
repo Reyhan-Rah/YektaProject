@@ -8,8 +8,11 @@ target 'YektaProject' do
 
   use_react_native!(:path => config["reactNativePath"])
 
+<<<<<<< HEAD
   pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
 
+=======
+>>>>>>> e4b43745a3cc42a51816b6966935f9912be5a7de
   target 'YektaProjectTests' do
     inherit! :complete
     # Pods for testing

@@ -16,6 +16,7 @@
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2DCD954D1E0B4F2C00145EB5 /* YektaProjectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* YektaProjectTests.m */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+<<<<<<< HEAD
 		A1662619F1D3497F9410823D /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B47C93040CA84D9C9C5491FE /* AntDesign.ttf */; };
 		2318154F9AC14940BF03519F /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C80456586BF347A4AC2E714D /* Entypo.ttf */; };
 		23E30ED6379B455A81E4D0D0 /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F5892112BFE14468838892E9 /* EvilIcons.ttf */; };
@@ -34,6 +35,8 @@
 		368B0A3513494C93B9F43160 /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BD10FE6872B145018E36F1D7 /* Zocial.ttf */; };
 		5DAAC242A84C4948AC3B9F23 /* YekanBakh-Fat.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A75CF324EC6D4EC990A86C48 /* YekanBakh-Fat.ttf */; };
 		827D8EF8A2C64520A33C09DA /* YekanBakh.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A9DA9B3872C44D619B4F3D7B /* YekanBakh.ttf */; };
+=======
+>>>>>>> e4b43745a3cc42a51816b6966935f9912be5a7de
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -69,6 +72,7 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = YektaProject/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
+<<<<<<< HEAD
 		B47C93040CA84D9C9C5491FE /* AntDesign.ttf */ = {isa = PBXFileReference; name = "AntDesign.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		C80456586BF347A4AC2E714D /* Entypo.ttf */ = {isa = PBXFileReference; name = "Entypo.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		F5892112BFE14468838892E9 /* EvilIcons.ttf */ = {isa = PBXFileReference; name = "EvilIcons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
@@ -87,6 +91,8 @@
 		BD10FE6872B145018E36F1D7 /* Zocial.ttf */ = {isa = PBXFileReference; name = "Zocial.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		A75CF324EC6D4EC990A86C48 /* YekanBakh-Fat.ttf */ = {isa = PBXFileReference; name = "YekanBakh-Fat.ttf"; path = "../src/assets/fonts/YekanBakh-Fat.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		A9DA9B3872C44D619B4F3D7B /* YekanBakh.ttf */ = {isa = PBXFileReference; name = "YekanBakh.ttf"; path = "../src/assets/fonts/YekanBakh.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+=======
+>>>>>>> e4b43745a3cc42a51816b6966935f9912be5a7de
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -176,7 +182,10 @@
 				00E356EF1AD99517003FC87E /* YektaProjectTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
+<<<<<<< HEAD
 				2CFBAAB327A845B199FC53EE /* Resources */,
+=======
+>>>>>>> e4b43745a3cc42a51816b6966935f9912be5a7de
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -194,6 +203,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+<<<<<<< HEAD
 		2CFBAAB327A845B199FC53EE /* Resources */ = {
 			isa = "PBXGroup";
 			children = (
@@ -220,6 +230,8 @@
 			sourceTree = "<group>";
 			path = "";
 		};
+=======
+>>>>>>> e4b43745a3cc42a51816b6966935f9912be5a7de
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -358,6 +370,7 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+<<<<<<< HEAD
 				A1662619F1D3497F9410823D /* AntDesign.ttf in Resources */,
 				2318154F9AC14940BF03519F /* Entypo.ttf in Resources */,
 				23E30ED6379B455A81E4D0D0 /* EvilIcons.ttf in Resources */,
@@ -376,6 +389,8 @@
 				368B0A3513494C93B9F43160 /* Zocial.ttf in Resources */,
 				5DAAC242A84C4948AC3B9F23 /* YekanBakh-Fat.ttf in Resources */,
 				827D8EF8A2C64520A33C09DA /* YekanBakh.ttf in Resources */,
+=======
+>>>>>>> e4b43745a3cc42a51816b6966935f9912be5a7de
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
